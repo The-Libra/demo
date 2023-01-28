@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    margin-top: 50px;
+    border: 2px solid red;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+}
+.🥹{
+    border: 3px solid black;
+    /* border-radius: 5px; */
+    height: 250px;
+    width: 250px;
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.bacha1{
+    background-color: burlywood;
+    width: 300px;
+    box-shadow: 5px 5px 15px 5px grey;
+    text-shadow: 3px 3px 2px rgb(7, 96, 108);
+}
+.bacha2{
+    background-color: aqua;
+    width: 200px;
+    box-shadow: -15px 5px 60px rgb(243, 10, 10);
+    text-shadow: 3px 3px 2px rgb(21, 108, 7);
+
+}
+.bacha3{
+    background-color: coral;
+    width: 350px;
+    height: 300px;
+    box-shadow: 0px 0px 50px rgba(0,0,0,0.75);
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.82);
+
+}
